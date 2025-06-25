@@ -1,1 +1,1 @@
-# Scientific-Paper-Keyword-Generator
+# Scientific Paper Keyword Generator
